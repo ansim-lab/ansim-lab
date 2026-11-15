@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anna! 👋
 
-<!--
-**ansim-lab/ansim-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics & Product Analytics Professional
 
-Here are some ideas to get you started:
+I am a data analytics professional with 8 years of experience transforming complex data into actionable business insights across advertising technology, healthcare, and loyalty marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise includes:
+
+- **Data Analytics & Business Intelligence:** SQL, Python, Snowflake, Power BI
+- **Data Visualization:** Interactive dashboards, KPI frameworks, business performance reporting
+- **Predictive Analytics & Machine Learning:** Regression, classification, clustering, forecasting
+- **Data Engineering & Automation:** ETL pipelines, data preprocessing, workflow automation
+- **Product & Marketing Analytics:** Feature adoption, campaign performance, customer segmentation, experimentation
+
+### 📊 Featured Projects
+
+🚧 **Currently building my analytics portfolio!**
+
+Upcoming projects include:
+
+- **Marketing Campaign Performance** — Power BI, DAX, data modeling, KPI development, and interactive visualization.
+- **Programmatic Media Efficiency** — Python, SQL, DuckDB, Streamlit, large-scale data cleaning and processing, advertising analytics, and price optimization opportunities.
+- **AI analytics skills / assistant** — Semantic modeling, Snowflake, Streamlit, AI evaluation.
+
+Stay tuned for interactive dashboards, analytical case studies, and reproducible code!
